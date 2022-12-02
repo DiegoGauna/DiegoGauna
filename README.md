@@ -2,7 +2,7 @@
 
 🔥 Front-End Student
 
-🌱 I’m currently learning - React | TypeScryipt | Node.js
+🌱 I’m currently learning - React | Node.js
 
 💬 Ask me about - HTML | CSS | JavaScript | React 
 
