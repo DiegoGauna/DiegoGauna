@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Gauna</h1>
 
-🔥 Front-End Student
+🔥 Front-End Dev Student
 
 🌱 I’m currently learning - React | Node.js
 
