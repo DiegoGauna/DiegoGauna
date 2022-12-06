@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning - React | Node.js
 
-💬 Ask me about - HTML | CSS | JavaScript | React 
+💬 Ask me about - HTML | CSS/SASS | JavaScript | React 
 
 📫 How to reach me: diegogauna.developer@gmail.com
 
