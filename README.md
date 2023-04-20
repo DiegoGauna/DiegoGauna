@@ -2,7 +2,7 @@
 
 🔥 Full Stack Dev in progress
 
-🌱 I’m currently learning - Node.js | Express | Mongoose
+🌱 I’m currently learning - Node.js | Express | Mongoose | Next.js
 
 💬 Ask me about - HTML | CSS/SASS | JavaScript | React | MongoDB
 
