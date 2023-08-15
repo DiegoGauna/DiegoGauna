@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning - Node.js | Express | Mongoose | Next.js
 
-💬 Ask me about - HTML | CSS/SASS | JavaScript | React | MongoDB
+💬 Ask me about - HTML | CSS/SASS | Bootstrap | JavaScript | React/Typescript | MongoDB
 
 📫 How to reach me: diegogauna.developer@gmail.com
 
