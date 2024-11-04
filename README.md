@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Gauna</h1>
 
-🔥 Full Stack Dev in progress
+🔥 Data Scientist in Progression
 
 🌱 I’m currently learning - Node.js | Express | Mongoose | Next.js
 
-💬 Ask me about - HTML | CSS/SASS | Bootstrap | JavaScript | React/Typescript | MongoDB
+💬 Ask me about - HTML | CSS/SASS | Bootstrap | JavaScript | React/Typescript | SQL
 
 📫 How to reach me: diegogauna.developer@gmail.com
 
