@@ -2,26 +2,10 @@
 
 🔥 Data Scientist in Progression
 
-🌱 I’m currently learning - Node.js | Express | Mongoose | Next.js
-
-💬 Ask me about - HTML | CSS/SASS | Bootstrap | Python | React/Typescript | SQL
+💬 Ask me about - SQL | Big Query | Power BI | Looker Studio | Python
 
 📫 How to reach me: diegogauna.developer@gmail.com
 
-<br>
-
-## 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-
-
-## ⚙️ &nbsp;GitHub Analytics
-<br>
 
 <div align="center">
   <a href="https://github.com/DiegoGauna">
